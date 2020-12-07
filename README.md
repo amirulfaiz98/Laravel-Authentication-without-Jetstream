@@ -20,4 +20,4 @@
 
 ## Further Information
     
-    [Click This](github.com/laravel/fortify) to go to fortify documentation
+    [Click This](https://github.com/laravel/fortify) to go to fortify documentation
