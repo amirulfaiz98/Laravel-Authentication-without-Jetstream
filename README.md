@@ -20,6 +20,5 @@
 
 ## Further Information
     
-    [Click This](https://github.com/laravel/fortify) to go to fortify documentation
-    
-    [I'm an inline-style link](https://www.google.com)
+    https://github.com/laravel/fortify
+   
